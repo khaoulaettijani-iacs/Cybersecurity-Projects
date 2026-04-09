@@ -1,6 +1,6 @@
-# 🚩 CTF Writeups & Security Challenges
+# 🚩  CyberSecurity Projects & CTF Writeups 
 
-My documented solutions from Capture The Flag competitions and security practice platforms.
+My documented Security Projects and Solutions from Capture The Flag competitions and security practice platforms.
 
 ## 🎯 Purpose
 CTF competitions teach offensive security skills essential for defensive work. Each writeup demonstrates:
@@ -8,6 +8,11 @@ CTF competitions teach offensive security skills essential for defensive work. E
 - Exploitation techniques
 - Tool usage and scripting
 - Security concepts and vulnerabilities
+Security Projects teach deffensive security skills. Each project demonstrates:
+- Defensive techniques
+- Different tools used
+- Security and Administration
+- Forensics analysis and incident response
 
 ## 🏆 Competitions
 
