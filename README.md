@@ -8,6 +8,7 @@ CTF competitions teach offensive security skills essential for defensive work. E
 - Exploitation techniques
 - Tool usage and scripting
 - Security concepts and vulnerabilities
+
 Security Projects teach deffensive security skills. Each project demonstrates:
 - Defensive techniques
 - Different tools used
